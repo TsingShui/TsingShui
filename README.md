@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working as an intern in xiaohongshu.com📕 
+- 🔭 I’m currently working as an intern
 - 🌱 I'm foucusing on Reverse Engineering && Mobile Defense 
 - 😋 Dream to be a FullStack Secruity Researcher
 - 💤 A noob CTF-Re Player
