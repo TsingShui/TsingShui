@@ -2,8 +2,6 @@
 
 ---
 
-- 🔭 I’m currently working as an intern
-- 🌱 I'm foucusing on Reverse Engineering && Mobile Defense 
-- 😋 Dream to be a FullStack Secruity Researcher
-- 💤 A noob CTF-Re Player
-- Blog : tsingshui.me
+- Security Risk Management
+- Learning BlockChain Audit
+- Blog : tsingshui.art
