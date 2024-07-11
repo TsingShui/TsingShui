@@ -1,3 +1,4 @@
-- Security Risk Management
-- Learning BlockChain Audit
+- Security Engineer
+- Learning BlockChain Audit,Frontend Dev
+- Focus on Reverse Engineering and Business security.
 - Blog : tsingshui.art
