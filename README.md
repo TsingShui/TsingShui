@@ -1,4 +1,4 @@
 - Security Engineer
-- Learning BlockChain Audit,Frontend Dev
-- Focus on Reverse Engineering and Business security.
+- Learning BlockChain Audit
+- Focus on Reverse Engineering
 - Blog : tsingshui.art
