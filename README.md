@@ -1,4 +1,2 @@
 - Security Engineer
-- Learning BlockChain Audit
 - Focus on Reverse Engineering
-- Blog : tsingshui.art
