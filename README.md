@@ -1,6 +1,6 @@
 👋 **I'm Tsingshui** — Software Reverse Engineer.
 
-💬 I never liked conflict, but here I am — doing offense and defense for a living.
+💬 I am doing offense and defense for a living.
 
 📍 **Now:**
 - ⚔️ LLM Security Engineering, RedTeam @ [ByteDance](https://www.bytedance.com/en/)
